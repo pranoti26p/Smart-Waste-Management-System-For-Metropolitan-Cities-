@@ -182,6 +182,6 @@ Distance is calculated using the **Haversine Formula** for accurate GPS-based di
 
 ## 👤 Author
 
-**Your Name**
+**Pranoti Patil**
 Final Year Project — IoT / Smart Cities / Web Development
 SmartInternz Externship Program — 2024
